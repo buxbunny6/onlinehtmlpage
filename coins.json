@@ -23,11 +23,25 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "CryptoPay Africa",
+        "Name": "CryptoPay Africa (CPA)",
         "WebUrl": "https://letshash.it/cpa",
         "PoolUrl": "pool.letshash.it",
         "PoolPort": "1707",
         "Algo": "cryptonight_turtle"
+    },
+    {
+        "Name": "Equilibria (XEQ)",
+        "WebUrl": "https://letshash.it/xeq",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1543",
+        "Algo": "cryptonight_gpu"
+    },
+    {
+        "Name": "Fandom Gold (XFG)",
+        "WebUrl": "https://letshash.it/xfg",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1546",
+        "Algo": "cryptonight_v8"
     },
     {
         "Name": "Goldnero Pool (GLDX)",
@@ -51,6 +65,13 @@
         "Algo": "cryptonight"
     },
     {
+        "Name": "KryptoKrona (XKR)",
+        "WebUrl": "https://letshash.it/xkr",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1556",
+        "Algo": "cryptonight_turtle"
+    },
+    {
         "Name": "Litenero Pool (LTNX)",
         "WebUrl": "https://letshash.it/ltnx",
         "PoolUrl": "pool.letshash.it",
@@ -65,18 +86,18 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "Nibble Pool (NBXC)",
-        "WebUrl": "https://letshash.it/nbxc",
-        "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1530",
-        "Algo": "cryptonight_conceal"
-    },
-    {
         "Name": "Monero Pool (XMR)",
         "WebUrl": "https://letshash.it/xmr",
         "PoolUrl": "pool.letshash.it",
         "PoolPort": "1551",
         "Algo": "qrl"
+    },
+    {
+        "Name": "Nibble Pool (NBXC)",
+        "WebUrl": "https://letshash.it/nbxc",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1530",
+        "Algo": "cryptonight_conceal"
     },
     {
         "Name": "SpawnCoin Pool (SPWN)",
@@ -86,31 +107,31 @@
         "Algo": "cryptonight_turtle"
     },
     {
-        "Name": "Ryo (RYO) - Miner.Rocks",
-        "WebUrl": "https://ryo.miner.rocks",
-        "PoolUrl": "ryo.miner.rocks",
-        "PoolPort": "5555",
-        "Algo": "ryo"
+        "Name": "UltraNote Infinity (XUNI)",
+        "WebUrl": "http://letshash.it/xuni",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1568",
+        "Algo": "cryptonight_conceal"
     },
     {
-        "Name": "TBA",
-        "WebUrl": "https://saronite.miner.rocks",
-        "PoolUrl": "saronite.miner.rocks",
-        "PoolPort": "5555",
-        "Algo": "cryptonight_haven"
+        "Name": "Xolentum",
+        "WebUrl": "https://letshash.it/xol/",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1565",
+        "Algo": "qrl"
     },
     {
-        "Name": "TBA",
-        "WebUrl": "https://turtle.miner.rocks",
-        "PoolUrl": "turtle.miner.rocks",
-        "PoolPort": "5555",
+        "Name": "ZumCoin",
+        "WebUrl": "https://letshash.it/zum/",
+        "PoolUrl": "pool.letshash.it",
+        "PoolPort": "1704",
         "Algo": "cryptonight_turtle"
     },
     {
         "Name": "TBA",
-        "WebUrl": "http://tychecash.net",
-        "PoolUrl": "tychecash.net",
-        "PoolPort": "2333",
+        "WebUrl": "letshash.it",
+        "PoolUrl": "",
+        "PoolPort": "",
         "Algo": "cryptonight"
     }
   ],
