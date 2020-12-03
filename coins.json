@@ -86,7 +86,7 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "Monero Pool (XMR)",
+        "Name": "Dont use Monero doesnt work ATM here",
         "WebUrl": "https://letshash.it/xmr",
         "PoolUrl": "pool.letshash.it",
         "PoolPort": "1551",
