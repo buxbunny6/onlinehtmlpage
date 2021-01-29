@@ -23,11 +23,11 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "CryptoPay Africa (CPA)",
-        "WebUrl": "https://letshash.it/cpa",
+        "Name": "New Pool Tommorow",
+        "WebUrl": "https://letshash.it/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1707",
-        "Algo": "cryptonight_turtle"
+        "PoolPort": "TBA",
+        "Algo": "TBA"
     },
     {
         "Name": "Equilibria (XEQ)",
@@ -51,11 +51,11 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "Darma Cash Pool (DMCH) ",
-        "WebUrl": "https://letshash.it/dmch",
+        "Name": "New Pool Tommorow",
+        "WebUrl": "https://letshash.it/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1662",
-        "Algo": "cryptonight"
+        "PoolPort": "TBA",
+        "Algo": "TBA"
     },
     {
         "Name": "Infinium-8 Pool (INF8)",
@@ -79,18 +79,18 @@
         "Algo": "cryptonight_masari"
     },
     {
-        "Name": "Masari Pool (MSR)",
-        "WebUrl": "https://letshash.it/msr",
+        "Name": "New Pool Tommorow",
+        "WebUrl": "https://letshash.it/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1571",
-        "Algo": "cryptonight_masari"
+        "PoolPort": "TBA",
+        "Algo": "TBA"
     },
     {
-        "Name": "Dont use Monero doesnt work ATM here",
-        "WebUrl": "https://letshash.it/xmr",
+        "Name": "NimboCoin",
+        "WebUrl": "https://letshash.it/nimbo",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1551",
-        "Algo": "qrl"
+        "PoolPort": "1715",
+        "Algo": "cryptonight_turtle"
     },
     {
         "Name": "Nibble Pool (NBXC)",
@@ -100,11 +100,11 @@
         "Algo": "cryptonight_conceal"
     },
     {
-        "Name": "SpawnCoin Pool (SPWN)",
-        "WebUrl": "https://letshash.it/spwn",
+        "Name": "New Pool Tommorow",
+        "WebUrl": "https://letshash.it/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1539",
-        "Algo": "cryptonight_turtle"
+        "PoolPort": "TBA",
+        "Algo": "TBA"
     },
     {
         "Name": "UltraNote Infinity (XUNI)",
@@ -121,10 +121,10 @@
         "Algo": "qrl"
     },
     {
-        "Name": "ZumCoin",
-        "WebUrl": "https://letshash.it/zum/",
+        "Name": "Talleo",
+        "WebUrl": "https://letshash.it/tlo/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1704",
+        "PoolPort": "1776",
         "Algo": "cryptonight_turtle"
     },
     {
