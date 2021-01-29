@@ -44,11 +44,11 @@
         "Algo": "cryptonight_v8"
     },
     {
-        "Name": "Goldnero Pool (GLDX)",
-        "WebUrl": "https://letshash.it/gldx",
+        "Name": "TBA",
+        "WebUrl": "https://letshash.it/",
         "PoolUrl": "pool.letshash.it",
-        "PoolPort": "1518",
-        "Algo": "cryptonight_masari"
+        "PoolPort": "TBA",
+        "Algo": "TBA"
     },
     {
         "Name": "New Pool Tommorow",
